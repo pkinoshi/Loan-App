@@ -10,5 +10,8 @@ import streamlit as st
 def render_methodology_page():
     st.title("Project Methodology and thought Process.")
     st.subheader("1. Data Preprocessing")
-    
+
     st.info("Something important should be here.")
+
+    st.subheader("2. Data Exploration")
+    st.info("Another important information should be here.")
